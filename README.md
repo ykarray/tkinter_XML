@@ -8,14 +8,26 @@ Ce projet consiste en une application créée en utilisant le langage **Python**
 
 - Accueil:
 
+
+
+ ![alt text](screenshot/accueil.png)
+
 - Ajout de livre:
+
+![alt text](screenshot/ajoutlivre.png)
 
 - Ajout de rapport:
 
 
+![alt text](screenshot/Listerapports.png)
+
 - Vue des livres disponibles avec fonction de recherche:
 
+![alt text](screenshot/ListeLivres.png)
+
 - Vue des rapports avec fonction de recherche:
+
+![alt text](screenshot/Listerapports.png)
 
 Toutes ces interfaces communiquent avec une base de données de type **XML**.
 
