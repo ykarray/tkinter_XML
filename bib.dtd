@@ -1,0 +1,17 @@
+<!ELEMENT bib (livres, rappots_pfe)>
+<!ELEMENT livres (livre+)>
+<!ELEMENT livre (titre, auteurs, ISBN, mots_cle)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT auteurs (auteur+)>
+<!ELEMENT auteur (#PCDATA)>
+<!ATTLIST auteurs nb CDATA #REQUIRED>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT mots_cle (mot_cle+)>
+<!ELEMENT mot_cle (#PCDATA)>
+<!ELEMENT rappots_pfe (rapport+)>
+<!ELEMENT rapport (titre, etude, annees, mots_cles)>
+<!ELEMENT etude (#PCDATA)>
+<!ELEMENT annees (#PCDATA)>
+<!ELEMENT mots_cles (mot_cle+)>
+<!ELEMENT mot (#PCDATA)>
+<!ELEMENT bib (#PCDATA)>

@@ -1,0 +1,51 @@
+<bib>
+<livres>
+    <livre>
+      <titre>Les Miserables</titre>
+      <auteurs nb="1">
+        <auteur>Victor Hugo</auteur>
+      </auteurs>
+      <ISBN>978-2-07-040017-8</ISBN>
+      <mots_cle><mot_cle>roman historique</mot_cle><mot_cle>France</mot_cle><mot_cle>pauvrete</mot_cle></mots_cle>
+    </livre>
+    <livre>
+      <titre>Harry Potter et la pierre philosophale</titre>
+      <auteurs nb="1">
+        <auteur>J.K. Rowling</auteur>
+      </auteurs>
+      <ISBN>978-2-07-054127-8</ISBN>
+      <mots_cle><mot_cle>roman fantastique</mot_cle><mot_cle>sorcellerie</mot_cle><mot_cle>amitie</mot_cle></mots_cle>
+    </livre>
+    <livre>
+      <titre>Le Seigneur des anneaux</titre>
+      <auteurs nb="1">
+        <auteur>J.R.R. Tolkien</auteur>
+      </auteurs>
+      <ISBN>978-2-07-061285-6</ISBN>
+      <mots_cle><mot_cle>roman de fantasy</mot_cle><mot_cle>monde imaginaire</mot_cle><mot_cle>aventure</mot_cle></mots_cle>
+    </livre>
+</livres>
+  <rappots_pfe>
+    <rapport>
+      <titre>Optimisation de la performance d'un moteur de recherche</titre>
+      <etude>Ingenierie informatique</etude>
+      <annees>2022</annees>
+      <mots_cles><mot_cle>moteur de recherche</mot_cle><mot_cle>performance</mot_cle><mot_cle>optimisation</mot_cle></mots_cles>
+     
+    </rapport>
+    <rapport>
+      <titre>Application mobile de gestion des rendez-vous medicaux</titre>
+      <etude>Genie logiciel</etude>
+      <annees>2021</annees>
+      <mots_cles><mot_cle>application mobile</mot_cle><mot_cle>medecine</mot_cle><mot_cle>gestion de rendez-vous</mot_cle></mots_cles>
+      
+    </rapport>
+    <rapport>
+      <titre>Conception d'un systeme de surveillance de la qualite de l'air</titre>
+      <etude>Genie electrique</etude>
+      <annees>2023</annees>
+      <mots_cles><mot_cle>surveillance de la qualite de l'air</mot_cle><mot_cle>capteurs</mot_cle><mot_cle>systeme de mesure</mot_cle></mots_cles>
+      
+    </rapport>
+ </rappots_pfe>
+</bib>
